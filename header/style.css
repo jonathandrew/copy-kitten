@@ -2,3 +2,35 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+
+body{
+	font-size:20;
+	text-align: center;
+	width:100%;
+	margin-top: 50px;
+}
+
+li {
+	display: inline;
+	margin: 30px;
+	font-size: 20px;
+
+}
+
+ul {
+	border:1px solid black;
+	background-color:darkgray;
+
+}
+a{
+	color: white;
+
+	
+}
+a:visited{
+	color:white;
+}
+
+a:hover{
+	color:blue;
+}
