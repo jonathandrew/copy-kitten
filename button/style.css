@@ -2,10 +2,20 @@
     box-sizing: border-box;
 }
 
-div {
+div {text-align: center;
+    font-size:50px;
+    margin-top: 200px;
+
+
 
 }
 
 a {
-    
+    border:5px solid blue;
+    border-radius: 30px;
+    background-color:blue;
+    color:white;
+    text-decoration: none;
+    padding:10px;
 }
+    
